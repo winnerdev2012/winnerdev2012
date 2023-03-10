@@ -44,25 +44,6 @@ I bring a profound interest in and understanding of:
   
 </td></table>
 
-#### 🤝 I'm Proudly affiliated with:
-<table><td>
-  
-[<img align="left" height="20" alt="github-campus-advisor" src="https://img.shields.io/badge/Campus%20Advisor%20-%23316192.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />]()
-[<img align="left" height="20" alt="khan-academy-lecturer" src="https://img.shields.io/badge/Lecturer%20-%23316192.svg?&style=for-the-badge&logo=khanacademy&logoColor=%2361DAFB" />](http://www.khanacademy.org/profile/marczaku)
-[<img align="left" height="20" alt="global-game-jam" src="https://img.shields.io/badge/Global%20Game%20Jam%20-%23316192.svg?&style=for-the-badge&logoColor=%2361DAFB" />](https://globalgamejam.org/users/teneas)
-  
-</td></table>
-
-#### 🌱 I'm currently learning:
-<table><td>
-  
-<img align="left" height="20" alt="docker" src="https://img.shields.io/badge/docker%20-%23316192.svg?&style=for-the-badge&logo=docker&logoColor=%2361DAFB" />
-<img align="left" height="20" alt="kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23316192.svg?&style=for-the-badge&logo=kubernetes&logoColor=%2361DAFB" />
-<img align="left" height="20" alt="angular" src="https://img.shields.io/badge/angular%20-%23316192.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
-<img align="left" height="20" alt="azuredevops" src="https://img.shields.io/badge/azuredevops%20-%23316192.svg?&style=for-the-badge&logo=azuredevops&logoColor=%2361DAFB" />
-  
-</td></table>
-
 <!--
 **marczaku/marczaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
