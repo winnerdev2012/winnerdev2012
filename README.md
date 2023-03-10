@@ -1,31 +1,14 @@
-### Oh, Hi there, my name is Marc Zaku 👋
+### Oh, Hi there, my name is Fernandez 👋
 
 ## I am a Freelance Software Engineer, CTO, Consultant and Lecturer
 
-I have 11+ years of professional experience in many layers of software development including: 
+I have 8+ years of professional experience in many layers of software development including: 
 - founding, hiring, leading, consulting, lecturing
 - programming in web, mobile, frontend and backend
 
 I bring a profound interest in and understanding of: 
 - clean code, architecture, continuous integration, ecs, code generation
 - performance, functional and integration testing
-
-
-I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Senior-Software-Engineer.pdf) and [reach out to me](mailto:marc@zaku.de).
-
-
-#### 📫 You can find me on:
-<table><td>
-  
-[<img align="left" height="20" alt="zaku.de" src="https://img.shields.io/badge/Zaku.de-%230077B5.svg?&style=for-the-badge&logoColor=white" />](https://zaku.de)
-[<img align="left" height="20" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marczaku)
-[<img align="left" height="20" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/marczaku)
-[<img align="left" height="20" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marc_zaku)
-[<img align="left" height="20" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://marczaku.medium.com)
-[<img align="left" height="20" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](http://stackoverflow.com/users/6135974/marc-zaku)
-
-</td></table>
-
 <!-- 23232F3E --><!-- 23316192 -->
 ---
 
